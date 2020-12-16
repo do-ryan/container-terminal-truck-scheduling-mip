@@ -2,11 +2,6 @@
 
 > This repository contains project files to solve a truck scheduling problem using two models: a mixed integer programming (MIP) model built in Gurobi and a constraint programming (CP) model using CPLEX. 
 
-* **Institution:** University of Toronto
-* **Course:** MIE 562F - Scheduling with Dr. C.J.B. Beck
-* **Dates:** Fall 2020
-* **Project Status:** Complete
-
 ## Setup
 
 1. In the main directory, we have two iPythonNotebook (ipynb) files:
@@ -44,10 +39,3 @@
   conda install -c ibmdecisionoptimization docplex
   ```
 
-## Team Members
-
-* Dylan Camus: [GitHub](https://github.com/dcamus4)
-* Ryan Do: [GitHub](https://github.com/do-ryan)
-* Fan Jia: [GitHub](https://github.com/FanJia1223)
-* Matheus Magalhaes: [GitHub](https://github.com/matheusmaga)
-* Sugumar Prabhakaran: [GitHub](https://github.com/sug-prabhakaran)
